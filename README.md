@@ -1,7 +1,7 @@
 # 
 
 **OS: fedora 42**
-**enroll course [here](https://www.coursera.org/programs/generative-artificial-intelligence-for-everyone-ossty/projects/rudi-hinds-ai-web-scraping-with-gpt-translating-foreign-news-headlines?collectionId=mObRd&badgeTemplateId=ZABnBQl-SGSAZwUJfhhk-Q)**
+**course**: web scraping with gpt: translate foreign news headlines
 
 ## HOW TO DO IT?
 
